@@ -1,4 +1,10 @@
-# EvernoteのノートをMarkdownファイルに変換する手順
+---
+title: "EvernoteのノートをMarkdownファイルに変換する手順記事のタイトル"
+emoji: "📓"
+type: "tech"
+topics: ["Evernote", "Joplin", "Markdown"]
+published: false
+---
 
 Apr 1, 2024
 
