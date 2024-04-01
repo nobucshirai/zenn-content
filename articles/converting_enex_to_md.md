@@ -1,5 +1,5 @@
 ---
-title: "EvernoteのノートをMarkdownファイルに変換する手順記事のタイトル"
+title: "EvernoteのノートをMarkdownファイルに変換する手順"
 emoji: "📓"
 type: "tech"
 topics: ["Evernote", "Joplin", "Markdown"]
