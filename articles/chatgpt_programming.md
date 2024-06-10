@@ -6,8 +6,6 @@ topics: ["ChatGPT", "LLM", "Python3", "VSCode"]
 published: true
 ---
 
-June 8, 2024 by Nobu C. Shirai
-
 ChatGPTなどの大規模言語モデル (Large Language Model; LLM) にプログラミングやリファクタリングをさせる場合、目的に合ったものが作られているかを何らかの方法で検証する必要がある。
 プログラムの正しさを完全に保証する方法はないが、ある程度の正しさを継続して担保するための方法を探ってみたので以下にまとめた。
 ポイントは、**ChatGPTの生成したプログラムの検証にもやはりChatGPTの力を借りること**である。
