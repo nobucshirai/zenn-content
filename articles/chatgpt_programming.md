@@ -61,10 +61,9 @@ ChatGPTにプログラムを作成させたとき、同時にそのプログラ�
 - docstringsとtype hintsを追加
 - スクリプトのファイル名の候補をいくつか提案
 - 既存のファイルを上書きする前に"(y)es/(n)o "と尋ねる（デフォルト：no）
-- 以下のshebangとエンコーディング宣言を追加
+- 以下のshebangを追加
 ```
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-.
 ```
 また、生成したコードの各関数のテストコードを pytest を使って生成してください。
 ~~~
@@ -83,10 +82,9 @@ I would like to add some additional specifications below.
 - Add docstrings and type hints.
 - Suggest some potential filenames for the script.
 - Ask "(y)es/(n)o" before overwriting an existing file (default: no). 
-- Add the following shebang and an encoding declaration.
+- Add the following shebang.
 ```
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 ```
 Also, please generate a test code for each function of the generated code using pytest.
 ~~~
